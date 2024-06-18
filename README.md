@@ -5,14 +5,14 @@ Passionate and results-driven data scientist with a Master’s in Information Te
 In previous roles, I have worked on complex data projects, including the investigation of 10M credit card transactions and the development of predictive models to enhance business processes. This aligns with my experience in environments requiring meticulous data analysis, similar to mainframe environments. Additionally, my project management, leadership, and problem-solving skills have enabled me to lead cross-functional teams effectively and manage multiple projects simultaneously.
 
 
-###Education
+### Education
 North Carolina A&T State University
 M.S. Information Technology 
 2022- 2023
 
-###Technical Skills: Capacity Management, Project Management, Risk Management, Python, Tableau, PowerBI, SQL, Jira, Snowflake, PHSTAT, Data Modeling
+### Technical Skills: Capacity Management, Project Management, Risk Management, Python, Tableau, PowerBI, SQL, Jira, Snowflake, PHSTAT, Data Modeling
 
-###Work Experience
+### Work Experience
 WolfSpeed- Data Analyst
 Utilized SQL, MATPLOTLIB, Python, and PowerBI to extract actionable insights from complex datasets, driving strategic decision-making.
 -Implemented predictive models to enhance business processes, increasing solution-based decisions involving data ingestion.
